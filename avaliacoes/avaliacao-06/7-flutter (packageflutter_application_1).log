@@ -1,0 +1,48 @@
+[package:flutter_application_1] flutter create --project-name flutter_application_1 --template app --overwrite .
+Waiting for another flutter command to release the startup lock...
+Creating project ....
+Resolving dependencies...
+Got dependencies.
+Wrote 129 files.
+
+All done!
+You can find general documentation for Flutter at: https://docs.flutter.dev/
+Detailed API documentation is available at: https://api.flutter.dev/
+If you prefer video documentation, consider: https://www.youtube.com/c/flutterdev
+
+In order to run your application, type:
+
+  $ cd .
+  $ flutter run
+
+Your application code is in ./lib/main.dart.
+
+exit code 0
+
+--
+
+[package:flutter_application_1] flutter pub get --no-example
+Resolving dependencies...
+  async 2.11.0 (2.13.1 available)
+  boolean_selector 2.1.1 (2.1.2 available)
+  characters 1.3.0 (1.4.1 available)
+  clock 1.1.1 (1.1.3 available)
+  collection 1.17.1 (1.19.1 available)
+  cupertino_icons 1.0.6 (2.0.0 available)
+  fake_async 1.3.1 (1.3.3 available)
+  flutter_lints 2.0.3 (6.0.0 available)
+  js 0.6.7 (0.7.2 available)
+  lints 2.1.1 (6.1.0 available)
+  matcher 0.12.15 (0.12.20 available)
+  material_color_utilities 0.2.0 (0.13.1 available)
+  meta 1.9.1 (1.19.0 available)
+  path 1.8.3 (1.9.1 available)
+  source_span 1.9.1 (1.10.2 available)
+  stack_trace 1.11.0 (1.12.2 available)
+  stream_channel 2.1.1 (2.1.4 available)
+  string_scanner 1.2.0 (1.4.1 available)
+  term_glyph 1.2.1 (1.2.2 available)
+  test_api 0.5.1 (0.7.15 available)
+  vector_math 2.1.4 (2.4.3 available)
+Got dependencies!
+exit code 0
